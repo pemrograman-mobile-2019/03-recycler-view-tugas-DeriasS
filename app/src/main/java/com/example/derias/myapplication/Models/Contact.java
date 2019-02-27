@@ -1,4 +1,4 @@
-package com.example.derias.myapplication.Model;
+package com.example.derias.myapplication.Models;
 
 import java.util.ArrayList;
 
